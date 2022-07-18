@@ -1,7 +1,8 @@
 # Chat-app
 Created a real-time chat-app using HTML,CSS,Javascript as frontend and NodeJs as backend.Used express as server and socket.io for communicating to the server
 
-Working
+<b>Working</b>
+<br/>
 <br/>
 1->
 Whenever anyone clicks on the given link, he will be redirected to a page where a prompt will appear asking the user to enter his name.
